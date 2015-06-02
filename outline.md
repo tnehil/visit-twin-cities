@@ -24,3 +24,10 @@ Outline options for transportation.
  - Five Watt
  - Urban Bean
  - What's actually near the conference?
+
+## Events
+What's the haps?
+
+## Further reading
+ - [Heavy Table](http://www.heavytable.com) — Local food blog. Lots of great restaurant and other food info
+ - [Secrets of the City](http://www.secretsofthecity.com/) — Local happenings — mostly arts and music.
