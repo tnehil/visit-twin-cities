@@ -13,6 +13,7 @@ Outline options for transportation.
  - Options that are actually in the area of the conference
   - Black Coffee and Waffles
  - Places we like
+ - The Jucy Lucy issue
 
 ## Drinking
  - Marvel Bar
