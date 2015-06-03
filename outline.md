@@ -17,13 +17,17 @@ Outline options for transportation.
 
 ## Drinking
  - Marvel Bar
- - Happy Gnome
+ - Happy Gnome/Muddy Pig
  - A brief disquisition on breweries
 
 ## Coffee
  - Five Watt
  - Urban Bean
  - What's actually near the conference?
+
+## Sights
+ - Mill District (Ruins Park, Stone Arch Bridge, Mill City Museum, Guthrie for endless bridge view)
+ - Minneapolis Sculpture Garden
 
 ## Events
 What's the haps?
